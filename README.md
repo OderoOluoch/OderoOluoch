@@ -2,7 +2,7 @@
 
 
 # Odero Oluoch
-I'm Odero Oluoch, A software Developer based in Nairobi, Kenya. I am a full stack developer, who is constantly exploring back end development space i.e Java EE, as well as front-end technologies like Tailwind CSS, React and Angular. I also enjoy flexing my muslces on mobile development, making apps using flutter,reac native and Andoid-Java/Kotlin.
+I'm Odero Oluoch, A software Developer based in Nairobi, Kenya. I am a full stack developer, who is constantly exploring back end development space i.e Java EE, as well as front-end technologies like Tailwind CSS, React and Angular. I also enjoy flexing my muslces on mobile development, making apps using flutter,react native and Andoid-Java/Kotlin.
 
 [![Odero's GitHub stats](https://github-readme-stats.vercel.app/api?username=OderoOluoch)](https://github.com/anuraghazra/github-readme-stats)
 
