@@ -2,7 +2,7 @@
 
 
 # Odero Oluoch
-I code in Java, JavaScript and Python. I use JavaScript (Angular/React) for front-end development, Java(SpringBoot) and Python (Django) for my back-end. I develop Android Apps using Java and actively exploring Kotlin, Flutter and ReactNative. 
+Skilled Software Developer with Extensive experience in Java, Spring Boot, Hibernate, Android, ReactJs,Angular along with Data Structures & Algorithms.
 
 
 [![Odero's GitHub stats](https://github-readme-stats.vercel.app/api?username=OderoOluoch)](https://github.com/anuraghazra/github-readme-stats)
